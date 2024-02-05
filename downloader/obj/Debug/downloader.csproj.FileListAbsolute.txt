@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\downloader\downloader\downloader\obj\Debug\downloader.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\downloader\downloader\downloader\obj\Debug\downloader.Form1.resources
+C:\Users\User\Desktop\downloader\downloader\downloader\obj\Debug\downloader.Properties.Resources.resources
+C:\Users\User\Desktop\downloader\downloader\downloader\obj\Debug\downloader.csproj.GenerateResource.cache
+C:\Users\User\Desktop\downloader\downloader\downloader\obj\Debug\downloader.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\downloader\downloader\downloader\bin\Debug\downloader.exe.config
+C:\Users\User\Desktop\downloader\downloader\downloader\bin\Debug\downloader.exe
+C:\Users\User\Desktop\downloader\downloader\downloader\bin\Debug\downloader.pdb
+C:\Users\User\Desktop\downloader\downloader\downloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\downloader\downloader\downloader\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\downloader\downloader\downloader\bin\Debug\YoutubeDLSharp.dll
+C:\Users\User\Desktop\downloader\downloader\downloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\downloader\downloader\downloader\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\downloader\downloader\downloader\bin\Debug\YoutubeDLSharp.xml
+C:\Users\User\Desktop\downloader\downloader\downloader\obj\Debug\downloader.csproj.CopyComplete
+C:\Users\User\Desktop\downloader\downloader\downloader\obj\Debug\downloader.exe
+C:\Users\User\Desktop\downloader\downloader\downloader\obj\Debug\downloader.pdb
